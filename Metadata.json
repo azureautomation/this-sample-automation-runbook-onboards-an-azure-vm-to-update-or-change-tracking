@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 12057,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/this-sample-automation-runbook-onboards-an-azure-vm-to-update-or-change-tracking/master/Enable-AutomationSolution.ps1",
+    "DownloadCount": 1071,
+    "Id": "This-sample-automation-5f79e9cf",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 297,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2017-11-29T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This sample automation runbook onboards an Azure VM for either the Update or ChangeTracking (which includes Inventory) solution. It requires an existing Azure VM to already be onboarded to the solution.",
+    "Title": "This sample automation runbook onboards an Azure VM to Update or Change Tracking",
+    "UpdatedDate": "2018-6-15T00:00:00",
+    "Url": "https://github.com/azureautomation/this-sample-automation-runbook-onboards-an-azure-vm-to-update-or-change-tracking",
+    "UserTags": "inventory, Windows Update, Windows Azure Virtual Machines"
+}
